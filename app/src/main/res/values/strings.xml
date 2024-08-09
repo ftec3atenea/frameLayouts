@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="margenes">¡Mis Márgenes Atenea!</string>
+    <string name="btn_1">Botón 1</string>
+    <string name="btn_2">Botón 2</string>
+    <string name="logo">Este es el logo de mi app</string>
+    <string name="btn3">Botón 3</string>
+    <string name="btn4">Botón 4</string>
+</resources>
